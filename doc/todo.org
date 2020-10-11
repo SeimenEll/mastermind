@@ -1,0 +1,20 @@
+* TODO draw - function
+  - Eingabe vom Spieler darstellen (Farbig?)
+  - Lösungssteine darstellen (Schwarz, Weiß)
+
+* TODO input - function
+  - Spieler wird nach Eingabe gefragt
+  - Farbe mit Eingabe durch Zahlen auswählen
+  - Zwischen den Slots mit den Pfeiltasten wechseln
+
+* TODO compare - function
+  - Wirklich notwendig?
+
+* TODO generate_goal - function
+  - Zielkombination generieren
+    - Mit random-Funktion eine Zahl generieren. Jede Zahl steht für eine Farbe.
+  - Schwierigkeitsgrad vorsehen
+    - Anzahl der Kugeln variieren
+    - Mehrere Kugeln der selben Farbe erlauben
+    - Leere Felder erlauben
+
